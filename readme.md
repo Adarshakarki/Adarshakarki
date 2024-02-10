@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on password manager.<br>👯 I’m looking to collaborate on javascript.<br>🤝 I’m looking for help with kotlin.<br>🌱 I’m currently learning java.<br><br>
+🔭 I’m currently working on Music player.<br>👯 I’m looking to collaborate on javascript.<br>🤝 I’m looking for help with kotlin.<br>🌱 I’m currently learning kotlin.<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=AdarshaKarki&label=Profile%20Views&color=11&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
