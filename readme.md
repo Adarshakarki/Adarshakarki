@@ -1,5 +1,5 @@
 # 💫 About Me:
-Online Bus Ticket Booking System<br>Tune Topia<br>Kotlin<br>Android Studio
+🔭 I’m currently working on Online Bus Booking System.<br>👯 I’m looking to collaborate on Tune Topia.<br>🤝 I’m looking for help with Kotlin.<br>🌱 I’m currently learning Android Studio.<br><br>
 
 
 ## 🌐 Socials:
