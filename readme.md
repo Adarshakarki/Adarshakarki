@@ -12,7 +12,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshaKarki&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshaKarki&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Profile View Count
+###
+
+<img src="https://raw.githubusercontent.com/adarshakarki/adarshakarki/output/snake.svg" alt="Snake animation" />
+
+## Profile View Count
 <div align = "center">
 <img src="https://profile-counter.glitch.me/adarshakarki/count.svg?" />
 </div>
