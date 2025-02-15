@@ -1,3 +1,6 @@
+### Visit counter
+![Visit Counter](https://count.getloli.com/@Adarshakarki?name=Adarshakarki&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 # 💫 About Me:
 🔭 I’m currently working on Online Bus Booking System.<br>👯 I’m looking to collaborate on Tune Topia.<br>🤝 I’m looking for help with Kotlin.<br>🌱 I’m currently learning Android Studio.
 
@@ -16,20 +19,11 @@
 
 <img src="https://raw.githubusercontent.com/adarshakarki/adarshakarki/output/snake.svg" alt="Snake animation" />
 
-## Profile View Count
-<div align = "center">
-<img src="https://profile-counter.glitch.me/adarshakarki/count.svg?" />
-</div>
-  
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdarshaKarki&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=AdarshaKarki&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80&unique={true|1|on|yes})
