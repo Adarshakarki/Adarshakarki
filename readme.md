@@ -15,8 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdarshaKarki&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshaKarki&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
-
+### 🐍 Contributions
 <img src="https://raw.githubusercontent.com/adarshakarki/adarshakarki/output/snake.svg" alt="Snake animation" />
 
 ## 🏆 GitHub Trophies
@@ -25,5 +24,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80&unique={true|1|on|yes})
+## 💽 Music
+![Music](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80&unique={true|1|on|yes})
