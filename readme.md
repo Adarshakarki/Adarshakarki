@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="100" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlodG92NXZsMGExdmd4M2JiMnZucnE1MXdqYzJuNDNuM3J1bG83eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif">
+</p>
+
 ### Visit counter
 ![Visit Counter](https://count.getloli.com/@Adarshakarki?name=Adarshakarki&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
