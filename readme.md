@@ -1,11 +1,14 @@
 <p align="center">
-  <img width="100" height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHlodG92NXZsMGExdmd4M2JiMnZucnE1MXdqYzJuNDNuM3J1bG83eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dg4TxjYikCpiGd7tYs/giphy.gif">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY283d25rZzM0Nzk4YWhqcTFlNWppM2pmNXBhb2o2ZmFlbmRjcnllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif"
+       width="240" height="180" style="border-radius: 25px;">
 </p>
+
+---
 
 <h3 align="center">Visit Counter</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/@Adarshakarki?name=Adarshakarki&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Visit Counter">
+  <img src="https://count.getloli.com/@Adarshakarki?name=Adarshakarki&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="Visit Counter">
 </p>
 
 ---
