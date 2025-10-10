@@ -94,8 +94,13 @@
 
 ---
 
-## 💽 Music
+### 😂 Meme
+<p align="center">
+    <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
+</p>
+---
 
-![Music](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80&unique=1)
+## 💽 Music
+![Music](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80)
 
 ---
