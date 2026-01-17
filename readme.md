@@ -71,11 +71,9 @@
 
 ---
 
-# 📊GitHub Stats :
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Adarshakarki&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23FFFFFFFF">
-</picture>
+## 📊 GitHub Stats
+![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=adarshakarki&theme=journey&dithering=true&pixelate_avatar=false)
 
 ---
 
