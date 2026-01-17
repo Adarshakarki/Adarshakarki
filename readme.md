@@ -72,9 +72,10 @@
 ---
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=adarshakarki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adarshakarki&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshakarki&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Adarshakarki&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&theme=crt&theme=crt&color=%23FFFFFFFF">
+</picture>
 
 ---
 
