@@ -101,6 +101,6 @@
 ---
 
 ## 💽 Music
-![Music](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80)
 
 ---
