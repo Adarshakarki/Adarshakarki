@@ -73,7 +73,11 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=adarshakarki&theme=journey&dithering=true&pixelate_avatar=false)
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adarshakarki/Adarshakarki/output/github-stats.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adarshakarki/Adarshakarki/output/github-stats-crt.png">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Adarshakarki&screen_effect=false&theme=journey&hide=avatar&dithering=true&pixelate_avatar=false">
+</picture>
 
 ---
 
