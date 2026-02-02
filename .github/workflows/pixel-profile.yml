@@ -25,7 +25,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=Adarshakarki&screen_effect=true&theme=journey&dithering=true
+            dist/github-stats?username=Adarshakarki&screen_effect=true&theme=journey&dithering=true&pixelate_avatar=false
             dist/github-stats-dark?username=Adarshakarki&theme=crt
           crt_outputs: |
             dist/github-stats-crt?username=Adarshakarki&include_all_commits=true
