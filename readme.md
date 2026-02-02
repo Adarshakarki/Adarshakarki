@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY283d25rZzM0Nzk4YWhqcTFlNWppM2pmNXBhb2o2ZmFlbmRjcnllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ju7l5y9osyymQ/giphy.gif"
-       width="240" height="180" style="border-radius: 25px;">
+       width="200" height="180" style="border-radius: 25px;">
 </p>
 
 ---
@@ -53,17 +53,13 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-%23D289CC.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239874D2.svg?style=flat&logo=adobe%20premiere%20pro&logoColor=white)
 ![After Effects](https://img.shields.io/badge/After%20Effects-%23867AD2.svg?style=flat&logo=adobe%20after%20effects&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-%23817BD2.svg?style=flat&logo=adobe%20lightroom&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%23B074D2.svg?style=flat&logo=canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23A174D2.svg?style=flat&logo=figma&logoColor=white)
-![Sketch](https://img.shields.io/badge/Sketch-%23CBA5E2.svg?style=flat&logo=sketch&logoColor=black)
 
 **Other Tools:**  
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-%236C63D2.svg?style=flat&logo=bitwarden&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%239374D2.svg?style=flat&logo=notion&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23C66FD2.svg?style=flat&logo=raspberry-pi&logoColor=white)
-![Plex](https://img.shields.io/badge/Plex-%23AD63D2.svg?style=flat&logo=plex&logoColor=white)
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-%238F74D2.svg?style=flat&logo=jellyfin&logoColor=white)
 ![TOR](https://img.shields.io/badge/TOR-%238863D2.svg?style=flat&logo=tor-project&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%238A63D2.svg?style=flat&logo=unrealengine&logoColor=white)
@@ -83,7 +79,7 @@
 
 ## 🐍 Contributions
 
-<img src="https://raw.githubusercontent.com/adarshakarki/adarshakarki/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adarshakarki/adarshakarki/output/snake.svg" alt="Snake animation"/>
 
 ---
 
@@ -101,10 +97,5 @@
 <p align="center">
     <img src="https://subreddit-memes.vercel.app/api/meme" width="350px"/>
 </p>
-
----
-
-## 💽 Music
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=j8m34nlcho97rlxlwjiix2p80)
 
 ---
