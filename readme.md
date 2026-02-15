@@ -13,28 +13,57 @@
 
 ---
 
-# 💫 About Me
-- 🔭 I'm currently working on **Crop Compass**.
-- 🌱 I'm currently learning **Python**.
-- 👯 I'm looking to collaborate on **Tune Topia**.
-- 🤝 I'm looking for help with **Tune Topia**.
+#  About Me
+-  I'm currently working on **Crop Compass**.
+-  I'm currently learning **Python**.
+-  I'm looking to collaborate on **Tune Topia**.
+-  I'm looking for help with **Tune Topia**.
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Adarshakarki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Adarshakarki" height="30" width="40" /></a>
-<a href="https://fb.com/adarsha.karki46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adarsha.karki46" height="30" width="40" /></a>
-<a href="https://instagram.com/el.esqueletico" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="el.esqueletico" height="30" width="40" /></a>
-<a href="https://twitter.com/adarshakarki46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshakarki46" height="30" width="40" /></a>
-<a href="https://youtube.com/spoonyjab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="spoonyjab" height="30" width="40" /></a>
+<p align="center">
+  
+[![Facebook](https://img.shields.io/badge/Facebook-%238A63D2.svg?style=flat&logo=facebook&logoColor=white)](https://facebook.com/adarsha.karki46)
+[![Instagram](https://img.shields.io/badge/Instagram-%23B574D2.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/cactusadarsha)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23D28ABD.svg?style=flat&logo=pinterest&logoColor=white)](https://pinterest.com/adarsha99999)
+[![X](https://img.shields.io/badge/X-%239674D2.svg?style=flat&logo=x&logoColor=white)](https://x.com/adarshakarki4)
+[![YouTube](https://img.shields.io/badge/YouTube-%23945DD2.svg?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@spoonyjab)
+
 </p>
 
 ---
 
 ## 💻 Tech Stack
+**Languages:**  
+![C](https://img.shields.io/badge/C-%238A63D2.svg?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23985BD2.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%239C7CD2.svg?style=flat&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23AA6FD2.svg?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%23B074D2.svg?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%239D6FD2.svg?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23B685E2.svg?style=flat&logo=javascript&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
+**Frontend & Frameworks:**  
+![Flutter](https://img.shields.io/badge/Flutter-%239774D2.svg?style=flat&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-%23856AD2.svg?style=flat&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%23A479D2.svg?style=flat&logo=tailwind-css&logoColor=white)
+
+**Design & Multimedia:**  
+![Photoshop](https://img.shields.io/badge/Photoshop-%238874D2.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-%23D289CC.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%239874D2.svg?style=flat&logo=adobe%20premiere%20pro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-%23867AD2.svg?style=flat&logo=adobe%20after%20effects&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%23B074D2.svg?style=flat&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23A174D2.svg?style=flat&logo=figma&logoColor=white)
+
+**Other Tools:**  
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/Bitwarden-%236C63D2.svg?style=flat&logo=bitwarden&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%239374D2.svg?style=flat&logo=notion&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/Jellyfin-%238F74D2.svg?style=flat&logo=jellyfin&logoColor=white)
+![TOR](https://img.shields.io/badge/TOR-%238863D2.svg?style=flat&logo=tor-project&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%238A63D2.svg?style=flat&logo=unrealengine&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-%236E63D2.svg?style=flat&logo=epicgames&logoColor=white)
 
 ---
 
@@ -58,7 +87,11 @@
 ---
 
 ## 🏆GitHub Trophies
+<p align = "center"
+  
 ![](https://github-trophies.vercel.app/?username=adarshakarki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</p>
 
 ---
 
