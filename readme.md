@@ -63,7 +63,11 @@
 ---
 
 ### ✍️Random Dev Quote
+<p align="center"
+  
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
+  
+</p>
 
 ---
 
