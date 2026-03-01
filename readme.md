@@ -89,7 +89,7 @@
 ## 🏆GitHub Trophies
 <p align = "center"
   
-![](https://github-trophies.vercel.app/?username=adarshakarki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=adarshakarki&theme=dark_lover&no-frame=true&no-bg=true&margin-w=4)
 
 </p>
 
