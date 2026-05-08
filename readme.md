@@ -14,8 +14,8 @@
 ---
 
 #  About Me
--  I'm currently working on **Crop Compass**.
--  I'm currently learning **Python**.
+-  I'm currently working on **UAD-TUI**.
+-  I'm currently learning **Golang**.
 -  I'm looking to collaborate on **Tune Topia**.
 -  I'm looking for help with **Tune Topia**.
 ---
