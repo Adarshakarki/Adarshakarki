@@ -70,8 +70,7 @@
 
 ## 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=adarshakarki&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=journey&theme=journey&color=%23ffffffFF">
-  
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdarshaKarki/AdarshaKarki/output/github-stats.png">
   <img alt="GitHub Stats" src="https://pixel-profile.vercel.app/api/github-stats?username=adarshakarki&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=false&theme=journey">
 </picture>
 
