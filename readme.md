@@ -70,9 +70,8 @@
 
 ## 📊 GitHub Stats
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=AdarshaKarki&include_all_commits=true&theme=journey&pixelate_avatar=false&avatar_border=true&dithering=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=AdarshaKarki&include_all_commits=true&background=radial-gradient%28circle+at+30%25+20%25%2C+%232e2e2eff+0%25%2C+%230a0a0aff+100%25%29&color=%23ffffffff" />
-  <img alt="AdarshaKarki's github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=AdarshaKarki&include_all_commits=true&background=radial-gradient%28circle+at+30%25+20%25%2C+%232e2e2eff+0%25%2C+%230a0a0aff+100%25%29&color=%23ffffffff" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdarshaKarki/AdarshaKarki/output/github-stats-dark.png" />
+  <img alt="AdarshaKarki's github stats" src="https://raw.githubusercontent.com/AdarshaKarki/AdarshaKarki/output/github-stats.png" />
 </picture>
 
 ---
