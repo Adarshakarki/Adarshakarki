@@ -1,12 +1,9 @@
-name: generate-and-upload-card
+name: generate-pixel-profile
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -15,7 +12,6 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-
     steps:
       - name: generate github stats card
         uses: LuciNyan/pixel-profile/action@main
@@ -23,6 +19,8 @@ jobs:
           outputs: |
             dist/github-stats?username=AdarshaKarki&include_all_commits=true&background=radial-gradient%28circle+at+30%25+20%25%2C+%232e2e2eff+0%25%2C+%230a0a0aff+100%25%29&color=%23ffffffff
             dist/github-stats-dark?username=AdarshaKarki&include_all_commits=true&theme=journey&pixelate_avatar=false&avatar_border=true&dithering=true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
 
       - name: push cards to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
